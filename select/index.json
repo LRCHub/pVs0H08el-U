@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "スパークル (movie ver.)",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-02T13:03:23.625270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/01_スパークル_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スパークル(movie ver.) feat.春茶",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/02_スパークル(movie_ver.)_feat.春茶_kobasolo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スパークル(movie ver.) feat.春茶",
+      "artist": "kobasolo, Harucha",
+      "has_synced": false,
+      "path": "select/03_スパークル(movie_ver.)_feat.春茶_kobasolo,_Harucha.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/04_スパークル_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スパークル (movie ver.) feat. 春茶",
+      "artist": "kobasolo",
+      "has_synced": false,
+      "path": "select/05_スパークル_(movie_ver.)_feat._春茶_kobasolo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Ikuta, Lilas",
+      "has_synced": false,
+      "path": "select/06_スパークル_Ikuta,_Lilas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/07_スパークル_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas Ikuta",
+      "has_synced": false,
+      "path": "select/08_スパークル_Lilas_Ikuta.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スパークル (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_スパークル_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/10_スパークル_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スパークル",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/11_スパークル_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スパークル(movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_スパークル(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スパークル - Sparkle",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/13_スパークル_-_Sparkle_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スパークル - From THE FIRST TAKE",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/14_スパークル_-_From_THE_FIRST_TAKE_Lilas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スパークル (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_スパークル_(movie_ver.)_RADWIMPS.txt"
+    }
+  ]
+}
